@@ -1,2 +1,220 @@
-# jacademy-java-programming
-Java Academy Course: Java Programming
+# Java Academy (Junior - Middle)
+
+Version: **1.12**
+
+<i>JAcademy</i> is the project that teaches to program in the java language and to think as an engineer.
+Each topic has small explanation of a problem or an idea and the solution, you can use it as you wish and as you want.
+
+As a start point, let's address to:
+
+[Programming Principles](https://it-skills-exchange.github.io/jacademy-java-programming/ "Programming Principles"),
+[Software Architecture Cheat Sheet](https://it-skills-exchange.github.io/jacademy-java-programming/ "Software Architecture Cheat Sheet");
+
+## [Java Programming](https://it-skills-exchange.github.io/jacademy-java-programming/ "The java programming chapter")
+
+In this module the following topics will be described:
+
+* Basics of Java Programming:
+  [Introduction](https://it-skills-exchange.github.io/jacademy-java-programming/ "Introduction"),
+  [First Java Program](https://it-skills-exchange.github.io/jacademy-java-programming/ "First Java Program"),
+  [Printing to the screen](https://it-skills-exchange.github.io/jacademy-java-programming/ "Printing to the screen"),
+  [Variables; integer values with 'int'](https://it-skills-exchange.github.io/jacademy-java-programming/ "Variables; integer values with 'int'"),
+  [Arithmetic expressions and operators](https://it-skills-exchange.github.io/jacademy-java-programming/ "Arithmetic expressions and operators"),
+  [Method parameters and return values](https://it-skills-exchange.github.io/jacademy-java-programming/ "Method parameters and return values"),
+  [Text values with String and char](https://it-skills-exchange.github.io/jacademy-java-programming/ "Text values with String and char"),
+  [Arrays](https://it-skills-exchange.github.io/jacademy-java-programming/ "Arrays"),
+  [Conditional and logical operators](https://it-skills-exchange.github.io/jacademy-java-programming/ "Conditional and logical operators"),
+  [if-statements](https://it-skills-exchange.github.io/jacademy-java-programming/ "if-statements"),
+  [Loops](https://it-skills-exchange.github.io/jacademy-java-programming/ "Loops");
+
+* Object-Oriented Programming:
+  [Introduction](https://it-skills-exchange.github.io/jacademy-java-programming/ "Introduction to Classes"),
+  [Declaration and Implementation](https://it-skills-exchange.github.io/jacademy-java-programming/ "Declaration and Implementation"),
+  [Access Modifiers](https://it-skills-exchange.github.io/jacademy-java-programming/ "Access Modifiers"),
+  [Fields](https://it-skills-exchange.github.io/jacademy-java-programming/ "Fields"),
+  [Methods](https://it-skills-exchange.github.io/jacademy-java-programming/ "Methods"),
+  [Constructors](https://it-skills-exchange.github.io/jacademy-java-programming/ "Constructors"),
+  [A Bit More about Constructors](https://it-skills-exchange.github.io/jacademy-java-programming/ "A Bit More about Constructors"),
+  [What is Data Hiding?](https://it-skills-exchange.github.io/jacademy-java-programming/ "What is Data Hiding?"),
+  [Encapsulation](https://it-skills-exchange.github.io/jacademy-java-programming/ "Encapsulation"),
+  [Understanding Encapsulation Using Examples](https://it-skills-exchange.github.io/jacademy-java-programming/
+  "Understanding Encapsulation Using Examples"),
+  [What is Inheritance?](https://it-skills-exchange.github.io/jacademy-java-programming/ "What is Inheritance?"),
+  [The Syntax and Terminologies](https://it-skills-exchange.github.io/jacademy-java-programming/ "The Syntax and Terminologies"),
+  [Super Keyword](https://it-skills-exchange.github.io/jacademy-java-programming/ "Super Keyword"),
+  [Types of Inheritance](https://it-skills-exchange.github.io/jacademy-java-programming/ "Types of Inheritance"),
+  [Advantages of Inheritance](https://it-skills-exchange.github.io/jacademy-java-programming/ "Advantages of Inheritance"),
+  [What is Polymorphism?](https://it-skills-exchange.github.io/jacademy-java-programming/ "What is Polymorphism?"),
+  [Polymorphism in OOP](https://it-skills-exchange.github.io/jacademy-java-programming/ "Polymorphism in OOP"),
+  [Method Overriding](https://it-skills-exchange.github.io/jacademy-java-programming/ "Method Overriding"),
+  [Difference Between the Overloading and Overriding of Methods](https://it-skills-exchange.github.io/jacademy-java-programming/
+  "Difference Between the Overloading and Overriding of Methods"),
+  [Dynamic Polymorphism](https://it-skills-exchange.github.io/jacademy-java-programming/ "Dynamic Polymorphism"),
+  [Difference between Static and Dynamic Polymorphism](https://it-skills-exchange.github.io/jacademy-java-programming/
+  "Difference between Static and Dynamic Polymorphism"),
+  [What is Abstraction?](https://it-skills-exchange.github.io/jacademy-java-programming/ "What is Abstraction?"),
+  [Abstract Classes and Methods](https://it-skills-exchange.github.io/jacademy-java-programming/ "Abstract Classes and Methods"),
+  [Interfaces](https://it-skills-exchange.github.io/jacademy-java-programming/ "Interfaces"),
+  [Default Methods in interfaces](https://it-skills-exchange.github.io/jacademy-java-programming/ "Default Methods in interfaces"),
+  [Static Methods in interfaces](https://it-skills-exchange.github.io/jacademy-java-programming/ "Static Methods in interfaces"),
+  [Functional Interfaces in Java](https://it-skills-exchange.github.io/jacademy-java-programming/ "Functional Interfaces in Java"),
+  [Multiple Inheritance](https://it-skills-exchange.github.io/jacademy-java-programming/ "Multiple Inheritance"),
+  [Aggregation and Composition](https://it-skills-exchange.github.io/jacademy-java-programming/ "Aggregation and Composition"),
+  [Aggregation](https://it-skills-exchange.github.io/jacademy-java-programming/ "Aggregation"),
+  [Composition](https://it-skills-exchange.github.io/jacademy-java-programming/ "Composition").
+
+* Recursion:
+  [What is Recursion?](https://it-skills-exchange.github.io/jacademy-java-programming/ "What is Recursion?"),
+  [Recursion and Memory Visualization](https://it-skills-exchange.github.io/jacademy-java-programming/ "Recursion and Memory Visualization"),
+  [Direct vs. Indirect Recursion](https://it-skills-exchange.github.io/jacademy-java-programming/ "Direct vs. Indirect Recursion"),
+  [When to use Recursion](https://it-skills-exchange.github.io/jacademy-java-programming/ "When to use Recursion"),
+  [What to Expect](https://it-skills-exchange.github.io/jacademy-java-programming/ "What to Expect"),
+  [Understanding a Recursive Problem](https://it-skills-exchange.github.io/jacademy-java-programming/ "Understanding a Recursive Problem"),
+  [Advantages and Disadvantages](https://it-skills-exchange.github.io/jacademy-java-programming/ "Advantages and Disadvantages"),
+  [Introduction](https://it-skills-exchange.github.io/jacademy-java-programming/ "Introduction"),
+  [Recursion vs. Iteration](https://it-skills-exchange.github.io/jacademy-java-programming/ "Recursion vs. Iteration"),
+  [Changing Iterative Code to Recursive](https://it-skills-exchange.github.io/jacademy-java-programming/ "Changing Iterative Code to Recursive"),
+  [Sum of Integers from 1 to n](https://it-skills-exchange.github.io/jacademy-java-programming/ "Sum of Integers from 1 to n"),
+  [Computing Fibonacci Sequence](https://it-skills-exchange.github.io/jacademy-java-programming/ "Computing Fibonacci Sequence"),
+  [Reversing a String](https://it-skills-exchange.github.io/jacademy-java-programming/ "Reversing a String"),
+  [Removing Duplicates in a String](https://it-skills-exchange.github.io/jacademy-java-programming/ "Removing Duplicates in a String"),
+  [Find the First Occurrence of a Number in an Array](https://it-skills-exchange.github.io/jacademy-java-programming/
+  "Find the First Occurrence of a Number in an Array"),
+  [Invert the Position of Elements in an Array](https://it-skills-exchange.github.io/jacademy-java-programming/
+  "Invert the Position of Elements in an Array"),
+  [Print a Reversed Linked List](https://it-skills-exchange.github.io/jacademy-java-programming/ "Print a Reversed Linked List"),
+  [Insert Values in a Binary Search Tree](https://it-skills-exchange.github.io/jacademy-java-programming/ "Insert Values in a Binary Search Tree"),
+  [Depth First Search in Graphs](https://it-skills-exchange.github.io/jacademy-java-programming/ "Depth First Search in Graphs"),
+  [Topological Sort in Graphs](https://it-skills-exchange.github.io/jacademy-java-programming/ "Topological Sort in Graphs").
+
+* Java Multithreading:
+  [Introduction](https://it-skills-exchange.github.io/jacademy-java-programming/ "Introduction"),
+  [Program vs Process vs Thread](https://it-skills-exchange.github.io/jacademy-java-programming/ "Program vs Process vs Thread"),
+  [Concurrency vs Parallelism](https://it-skills-exchange.github.io/jacademy-java-programming/ "Concurrency vs Parallelism"),
+  [Cooperative Multitasking vs Preemptive Multitasking](https://it-skills-exchange.github.io/jacademy-java-programming/ ""),
+  [Synchronous vs Asynchronous](https://it-skills-exchange.github.io/jacademy-java-programming/ "Synchronous vs Asynchronous"),
+  [I/O Bound vs CPU Bound](https://it-skills-exchange.github.io/jacademy-java-programming/ "I/O Bound vs CPU Bound"),
+  [Throughput vs Latency](https://it-skills-exchange.github.io/jacademy-java-programming/ "Throughput vs Latency"),
+  [Critical Sections & Race Conditions](https://it-skills-exchange.github.io/jacademy-java-programming/
+  "Critical Sections & Race Conditions"),
+  [Deadlocks, Liveness & Reentrant Locks](https://it-skills-exchange.github.io/jacademy-java-programming/
+  "Deadlocks, Liveness & Reentrant Locks"),
+  [Mutex vs Semaphore](https://it-skills-exchange.github.io/jacademy-java-programming/ "Mutex vs Semaphore"),
+  [Mutex vs Monitor](https://it-skills-exchange.github.io/jacademy-java-programming/ "Mutex vs Monitor"),
+  [Java's Monitor & Hoare vs Mesa Monitors](https://it-skills-exchange.github.io/jacademy-java-programming/
+  "Java's Monitor & Hoare vs Mesa Monitors"),
+  [Semaphore vs Monitor](https://it-skills-exchange.github.io/jacademy-java-programming/ "Semaphore vs Monitor"),
+  [Amdahl's Law](https://it-skills-exchange.github.io/jacademy-java-programming/ "Amdahl's Law"),
+  [Moore's Law](https://it-skills-exchange.github.io/jacademy-java-programming/ "Moore's Law"),
+  [Thready Safety & Synchronized](https://it-skills-exchange.github.io/jacademy-java-programming/ "Thready Safety & Synchronized"),
+  [Wait & Notify](https://it-skills-exchange.github.io/jacademy-java-programming/ "Wait & Notify"),
+  [Interrupting Threads](https://it-skills-exchange.github.io/jacademy-java-programming/ "Interrupting Threads"),
+  [Volatile](https://it-skills-exchange.github.io/jacademy-java-programming/ "Volatile"),
+  [Reentrant Locks & Condition Variables](https://it-skills-exchange.github.io/jacademy-java-programming/
+  "Reentrant Locks & Condition Variables"),
+  [Missed Signals](https://it-skills-exchange.github.io/jacademy-java-programming/ "Missed Signals"),
+  [Semaphore in Java](https://it-skills-exchange.github.io/jacademy-java-programming/ "Semaphore in Java"),
+  [Spurious Wakeups](https://it-skills-exchange.github.io/jacademy-java-programming/ "Spurious Wakeups"),
+  [Java Memory Model](https://it-skills-exchange.github.io/jacademy-java-programming/ "Java Memory Model"),
+  [Reordering Effects](https://it-skills-exchange.github.io/jacademy-java-programming/ "Reordering Effects"),
+  [The happens-before Relationship](https://it-skills-exchange.github.io/jacademy-java-programming/ "The happens-before Relationship"),
+  [Setting-up Threads](https://it-skills-exchange.github.io/jacademy-java-programming/ "Setting-up Threads"),
+  [Basic Thread Handling](https://it-skills-exchange.github.io/jacademy-java-programming/ "Basic Thread Handling"),
+  [Executor Framework](https://it-skills-exchange.github.io/jacademy-java-programming/ "Executor Framework"),
+  [Executor Implementations](https://it-skills-exchange.github.io/jacademy-java-programming/ "Executor Implementations"),
+  [Thread Pools](https://it-skills-exchange.github.io/jacademy-java-programming/ "Thread Pools"),
+  [Types of Thread Pools](https://it-skills-exchange.github.io/jacademy-java-programming/ "Types of Thread Pools"),
+  [An Example: Timer vs ScheduledThreadPool](https://it-skills-exchange.github.io/jacademy-java-programming/
+  "An Example: Timer vs ScheduledThreadPool"),
+  [Callable Interface](https://it-skills-exchange.github.io/jacademy-java-programming/ "Callable Interface"),
+  [Future Interface](https://it-skills-exchange.github.io/jacademy-java-programming/ "Future Interface"),
+  [CompletionService Interface](https://it-skills-exchange.github.io/jacademy-java-programming/ "CompletionService Interface"),
+  [ThreadLocal](https://it-skills-exchange.github.io/jacademy-java-programming/ "ThreadLocal"),
+  [CountDownLatch](https://it-skills-exchange.github.io/jacademy-java-programming/ "CountDownLatch"),
+  [CyclicBarrier](https://it-skills-exchange.github.io/jacademy-java-programming/ "CyclicBarrier"),
+  [Concurrent Collections](https://it-skills-exchange.github.io/jacademy-java-programming/ "Concurrent Collections").
+  Further reading: [Java Concurrency in Practice (Rus translation)](https://github.com/strogo/JavaConcurrencyInPracticeTranslation "Java Concurrency in Practice (Rus translation)").
+
+* Collections:
+  [Introduction to Collection](https://it-skills-exchange.github.io/jacademy-java-programming/ "Introduction to Collection"),
+  [ArrayList: Introduction](https://it-skills-exchange.github.io/jacademy-java-programming/ "ArrayList: Introduction"),
+  [ArrayList: Inserting and Retrieving Elements](https://it-skills-exchange.github.io/jacademy-java-programming/ "ArrayList: Inserting and Retrieving Elements"),
+  [ArrayList: Few More Operations](https://it-skills-exchange.github.io/jacademy-java-programming/ "ArrayList: Few More Operations"),
+  [ArrayList: Iteration](https://it-skills-exchange.github.io/jacademy-java-programming/ "ArrayList: Iteration"),
+  [ArrayList: Iteration using ListIterator](https://it-skills-exchange.github.io/jacademy-java-programming/ "ArrayList: Iteration using ListIterator"),
+  [ArrayList Sorting](https://it-skills-exchange.github.io/jacademy-java-programming/ "ArrayList Sorting"),
+  [Understanding Comparable Interface](https://it-skills-exchange.github.io/jacademy-java-programming/ "Understanding Comparable Interface"),
+  [Understanding Comparator Interface](https://it-skills-exchange.github.io/jacademy-java-programming/ "Understanding Comparator Interface"),
+  [LinkedList: Introduction](https://it-skills-exchange.github.io/jacademy-java-programming/ "LinkedList: Introduction"),
+  [LinkedList: Fetching and Removing](https://it-skills-exchange.github.io/jacademy-java-programming/ "LinkedList: Fetching and Removing"),
+  [CopyOnWriteArrayList: Introduction](https://it-skills-exchange.github.io/jacademy-java-programming/ "CopyOnWriteArrayList: Introduction"),
+  [CopyOnWriteArrayList: Internal Working](https://it-skills-exchange.github.io/jacademy-java-programming/ "CopyOnWriteArrayList: Internal Working"),
+  [CopyOnWriteArrayList: Iteration](https://it-skills-exchange.github.io/jacademy-java-programming/ "CopyOnWriteArrayList: Iteration"),
+  [HashSet: Creation and Insertion](https://it-skills-exchange.github.io/jacademy-java-programming/ "HashSet: Creation and Insertion"),
+  [HashSet: Additional Operations](https://it-skills-exchange.github.io/jacademy-java-programming/ "HashSet: Additional Operations"),
+  [HashSet: Iteration and Sorting](https://it-skills-exchange.github.io/jacademy-java-programming/ "HashSet: Iteration and Sorting"),
+  [TreeSet: Creation and Insertion](https://it-skills-exchange.github.io/jacademy-java-programming/ "TreeSet: Creation and Insertion"),
+  [TreeSet: Fetching and Removal](https://it-skills-exchange.github.io/jacademy-java-programming/ "TreeSet: Fetching and Removal"),
+  [HashMap: Creation and Insertion](https://it-skills-exchange.github.io/jacademy-java-programming/ "HashMap: Creation and Insertion"),
+  [HashMap: Updation and Removal](https://it-skills-exchange.github.io/jacademy-java-programming/ "HashMap: Updation and Removal"),
+  [HashMap: A Few More Operations](https://it-skills-exchange.github.io/jacademy-java-programming/ "HashMap: A Few More Operations"),
+  [HashMap: Java 8 Improvements](https://it-skills-exchange.github.io/jacademy-java-programming/ "HashMap: Java 8 Improvements"),
+  [HashMap: Internal Implementation](https://it-skills-exchange.github.io/jacademy-java-programming/ "HashMap: Internal Implementation"),
+  [HashMap: How to Design a Good Key](https://it-skills-exchange.github.io/jacademy-java-programming/ "HashMap: How to Design a Good Key"),
+  [HashMap: Iteration](https://it-skills-exchange.github.io/jacademy-java-programming/ "HashMap: Iteration"),
+  [TreeMap: Creation and Insertion](https://it-skills-exchange.github.io/jacademy-java-programming/ "TreeMap: Creation and Insertion"),
+  [TreeMap: Fetching and Removal](https://it-skills-exchange.github.io/jacademy-java-programming/ "TreeMap: Fetching and Removal"),
+  [TreeMap: Sorting a TreeMap by Values](https://it-skills-exchange.github.io/jacademy-java-programming/ "TreeMap: Sorting a TreeMap by Values"),
+  [HashMap Sorting](https://it-skills-exchange.github.io/jacademy-java-programming/ "HashMap Sorting"),
+  [LinkedHashMap: Introduction](https://it-skills-exchange.github.io/jacademy-java-programming/ "LinkedHashMap: Introduction"),
+  [LinkedHashMap: Internal Working](https://it-skills-exchange.github.io/jacademy-java-programming/ "LinkedHashMap: Internal Working"),
+  [ConcurrentHashMap](https://it-skills-exchange.github.io/jacademy-java-programming/ "ConcurrentHashMap"),
+  [IdentityHashMap](https://it-skills-exchange.github.io/jacademy-java-programming/ "IdentityHashMap"),
+  [EnumMap](https://it-skills-exchange.github.io/jacademy-java-programming/ "EnumMap"),
+  [Searching an Array](https://it-skills-exchange.github.io/jacademy-java-programming/ "Searching an Array"),
+  [Sorting an Array](https://it-skills-exchange.github.io/jacademy-java-programming/ "Sorting an Array"),
+  [Copying an Array](https://it-skills-exchange.github.io/jacademy-java-programming/ "Copying an Array"),
+  [Additional Operations](https://it-skills-exchange.github.io/jacademy-java-programming/ "Additional Operations"),
+  [Finding the Min and Max element](https://it-skills-exchange.github.io/jacademy-java-programming/ "Finding the Min and Max element"),
+  [Searching, Filing, and Copying Collection](https://it-skills-exchange.github.io/jacademy-java-programming/ "Searching, Filing, and Copying Collection"),
+  [Making Collections Unmodifiable](https://it-skills-exchange.github.io/jacademy-java-programming/ "Making Collections Unmodifiable"),
+  [Making Collections thread-safe](https://it-skills-exchange.github.io/jacademy-java-programming/ "Making Collections thread-safe"),
+
+* Features:
+  [About This Module](https://it-skills-exchange.github.io/jacademy-java-programming/ "About This Module"),
+  [Writing your first lambda](https://it-skills-exchange.github.io/jacademy-java-programming/ "Writing your first lambda"),
+  [Java Comparator Using Lambda](https://it-skills-exchange.github.io/jacademy-java-programming/ "Java Comparator Using Lambda"),
+  [Predicate Functional Interface](https://it-skills-exchange.github.io/jacademy-java-programming/ "Predicate Functional Interface"),
+  [Supplier Functional Interface](https://it-skills-exchange.github.io/jacademy-java-programming/ "Supplier Functional Interface"),
+  [Consumer Functional Interface](https://it-skills-exchange.github.io/jacademy-java-programming/ "Consumer Functional Interface"),
+  [Function Interface](https://it-skills-exchange.github.io/jacademy-java-programming/ "Function Interface"),
+  [Unary Operator](https://it-skills-exchange.github.io/jacademy-java-programming/ "Unary Operator"),
+  [Binary operator](https://it-skills-exchange.github.io/jacademy-java-programming/ "Binary operator"),
+  [Capturing lambdas](https://it-skills-exchange.github.io/jacademy-java-programming/ "Capturing lambdas"),
+  [Introduction](https://it-skills-exchange.github.io/jacademy-java-programming/ "Introduction"),
+  [Filtering Operations in Stream](https://it-skills-exchange.github.io/jacademy-java-programming/ "Filtering Operations in Stream"),
+  [Mapping Operations in Stream](https://it-skills-exchange.github.io/jacademy-java-programming/ "Mapping Operations in Stream"),
+  [Method References](https://it-skills-exchange.github.io/jacademy-java-programming/ "Method References"),
+  [Optional in Java 8: Part 1](https://it-skills-exchange.github.io/jacademy-java-programming/ "Optional in Java 8: Part 1"),
+  [Optional in Java 8: Part 2](https://it-skills-exchange.github.io/jacademy-java-programming/ "Optional in Java 8: Part 2"),
+  [Slicing Operations in Stream](https://it-skills-exchange.github.io/jacademy-java-programming/ "Slicing Operations in Stream"),
+  [Matching Operations in Stream](https://it-skills-exchange.github.io/jacademy-java-programming/ "Matching Operations in Stream"),
+  [Finding Operations in Stream](https://it-skills-exchange.github.io/jacademy-java-programming/ "Finding Operations in Stream"),
+  [Mutable Reduction Through reduce()](https://it-skills-exchange.github.io/jacademy-java-programming/ "Mutable Reduction Through reduce()"),
+  [Collectors: Collection Operations](https://it-skills-exchange.github.io/jacademy-java-programming/ "Collectors: Collection Operations"),
+  [Collectors: Aggregation Operations](https://it-skills-exchange.github.io/jacademy-java-programming/ "Collectors: Aggregation Operations"),
+  [Collectors: Grouping Operations](https://it-skills-exchange.github.io/jacademy-java-programming/ "Collectors: Grouping Operations"),
+  [Parallel Stream](https://it-skills-exchange.github.io/jacademy-java-programming/ "Parallel Stream"),
+  [Lazy Evaluation in Streams](https://it-skills-exchange.github.io/jacademy-java-programming/ "Lazy Evaluation in Streams"),
+  [CompletableFuture: Introduction](https://it-skills-exchange.github.io/jacademy-java-programming/ "CompletableFuture: Introduction"),
+  [CompletableFuture: Processing Results](https://it-skills-exchange.github.io/jacademy-java-programming/ "CompletableFuture: Processing Results"),
+  [CompletableFuture: Chaining](https://it-skills-exchange.github.io/jacademy-java-programming/ "CompletableFuture: Chaining"),
+  [CompletableFuture: Combining Results of Futures](https://it-skills-exchange.github.io/jacademy-java-programming/ "CompletableFuture: Combining Results of Futures"),
+  [StampedLock](https://it-skills-exchange.github.io/jacademy-java-programming/ "StampedLock"),
+  [Limitations of Old Date/Time API](https://it-skills-exchange.github.io/jacademy-java-programming/ "Limitations of Old Date/Time API"),
+  [LocalDate](https://it-skills-exchange.github.io/jacademy-java-programming/ "LocalDate"),
+  [LocalTime](https://it-skills-exchange.github.io/jacademy-java-programming/ "LocalTime"),
+  [LocalDateTime](https://it-skills-exchange.github.io/jacademy-java-programming/ "LocalDateTime"),
+  [ZonedDateTime](https://it-skills-exchange.github.io/jacademy-java-programming/ "ZonedDateTime"),
+  [Period and Duration](https://it-skills-exchange.github.io/jacademy-java-programming/ "Period and Duration"),
+  [Where to Go From Here](https://it-skills-exchange.github.io/jacademy-java-programming/ "Where to Go From Here").
